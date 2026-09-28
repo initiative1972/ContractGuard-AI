@@ -1,0 +1,30 @@
+# ==============================================================================
+# ContractGuard AI — Core Dependencies (Python 3.11+)
+# Regulated Australian Banking Governance & Enterprise Contract Review Runtime
+# Compliant with APRA CPS 234 / CPG 235 Data Sovereignty & Model Risk Controls
+# ==============================================================================
+
+# Google GenAI Official Unified SDK
+google-genai==1.2.0
+
+# High-Performance API & Async I/O Runtime
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+httpx==0.28.1
+
+# Data Validation, Governance & Typed Settings
+pydantic==2.10.4
+pydantic-settings==2.7.1
+python-dotenv==1.0.1
+
+# Hybrid RAG: Lexical & Dense Vector Retrieval
+sentence-transformers==3.4.1
+rank_bm25==0.2.2
+numpy==2.2.1
+
+# Natural Language Processing & PII / Legal Entity Extraction
+spacy==3.8.3
+
+# Testing & Golden Benchmark Verification
+pytest==8.3.4
+pytest-asyncio==0.25.0

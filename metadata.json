@@ -1,0 +1,6 @@
+{
+  "name": "ContractGuard AI — Enterprise Contract Governance & Audit Runtime",
+  "description": "4-layer enterprise contract review system and zero-dependency OpenTelemetry governance runtime for regulated Australian banking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
